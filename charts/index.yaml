@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  jenkins:
+  - apiVersion: v1
+    appVersion: "1"
+    created: "2021-07-01T18:24:11.4765525+05:30"
+    description: This is Chart to setup Jenkins (Automation Server) !!!
+    digest: fa2fe898cdc8f30b6705a6d2632d7c6a60aadef96f7442ed6c52d0fe50a45f19
+    name: jenkins
+    urls:
+    - jenkins-0.1.tgz
+    version: "0.1"
+generated: "2021-07-01T18:24:11.4753987+05:30"
